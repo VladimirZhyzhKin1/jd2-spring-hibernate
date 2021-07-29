@@ -1,4 +1,4 @@
-# News manager
+# News management
 ## Description
 Web project for posting / viewing news.</br>
 News manager updated project using technology with Spring, hibernate
