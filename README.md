@@ -14,6 +14,5 @@ Web application is built on MVC principle of using Layered Architecture.
 - Spring AOP
 - Hibernate
 - MySQL
-- HTML5/CSS3
-- JSP/JSTL
+- JSP/JSTL/CSS3
 - log4j
